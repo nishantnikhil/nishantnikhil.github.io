@@ -5,8 +5,8 @@ html {
     color: #353535;
     background: rgba(234, 234, 234, 1.0);
     display: block;
-    overflow-x: hidden;
-    overflow-y: hidden
+    overflow-x: scroll;
+    overflow-y: scroll
 }
 div#preloader {
     width: 100%;
@@ -20,7 +20,7 @@ body {
     margin: 0;
     padding: 0;
     top: 0;
-    overflow-x: hidden;
+    overflow-x: scroll;
     font-size: 11pt
 }
 img {
